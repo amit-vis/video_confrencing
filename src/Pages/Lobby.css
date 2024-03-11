@@ -1,0 +1,22 @@
+.custom-container{
+    padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.custom-subcontainer{
+    border: 2px solid rgb(66, 146, 29);
+    padding: 20px;
+}
+
+.roomcontainer{
+    display: flex;
+    justify-content: center;
+}
+.remoteStream{
+    border: 2px solid rgb(177, 75, 75);
+    border-radius: 10px;
+    width: 100%;
+    padding: 10px;
+}
